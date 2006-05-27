@@ -1,0 +1,34 @@
+%define K_ESC		27
+%define K_ENT		0x0D
+%define K_BS		8
+%define K_TAB		9
+
+%define KMOD_SHIFT	0x0100
+%define KMOD_ALT	0x0200
+%define KMOD_CTRL	0x0400
+
+%define K_F1		0xF000
+%define K_F2		0xF001
+%define K_F3		0xF002
+%define K_F4		0xF003
+%define K_F5		0xF004
+%define K_F6		0xF005
+%define K_F7		0xF006
+%define K_F8		0xF007
+%define K_F9		0xF008
+%define K_F10		0xF009
+%define K_F11		0xF00A
+%define K_UP		0xF00B
+%define K_DN		0xF00C
+%define K_LT		0xF00D
+%define K_RT		0xF00E
+%define K_INS		0xF00F
+%define K_DEL		0xF010
+%define K_HOME		0xF011
+%define K_END		0xF012
+%define K_PGUP		0xF013
+%define K_PGDN		0xF014
+%define K_PRSCR		0xF015
+%define K_PAUSE		0xF016
+%define K_NUM5		0xF017
+%define K_F12		0xF018

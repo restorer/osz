@@ -1,0 +1,2 @@
+1. [fixed] (ps <-> pp), (backimg <-> backime) - типа strcmp фигово работает.
+2. Writing to disc

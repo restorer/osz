@@ -1,0 +1,3 @@
+there_are_some_russian_comments_in_files (cp1251_encoding) ;
+if ( you are using *NIX and koi8 encoding ) { please_use_some_recoding_software (re_for_example) ; }
+if ( you are not understand russian language) { sorry() ; some_translation_will_be_later() ; }
