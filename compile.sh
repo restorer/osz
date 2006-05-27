@@ -6,7 +6,7 @@ cd ..
 
 MakeZImg/makezimg b BootLoader/boot.bin osz.img
 MakeZImg/makezimg a LdKernel/ldkernel LDKERNEL osz.img
-MakeZImg/makezimg a \!Test/test.txt TEST.TXT osz.img
+MakeZImg/makezimg a Test/test.txt TEST.TXT osz.img
 MakeZImg/makezimg a LdKernel/tasks/bin/shell.bin SHELL osz.img
 
 MakeZImg/makezimg a LdKernel/tasks/bin/test1.bin TEST1 osz.img
