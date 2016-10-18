@@ -1,10 +1,14 @@
+Description
+===========
+
 University project, working multitasking operating system
 written in pure assembly (without GUI and memory protecting).
 
 If you need binary files, please visit sourceforge:
 https://sourceforge.net/projects/osz/
 
-Old description:
+Old description
+===============
 
 OsZ - microkernel operating sustem written in assembly language.
 Requires IBM-PC-compatible computer with at least 4mb or RAM and x386
@@ -13,3 +17,15 @@ Requires IBM-PC-compatible computer with at least 4mb or RAM and x386
 there_are_some_russian_comments_in_files (cp1251_encoding) ;
 if ( you are using *NIX and koi8 encoding ) { please_use_some_recoding_software (re_for_example) ; }
 if ( you are not understand russian language ) { sorry() ; some_translation_will_be_later() ; }
+
+Product support
+===============
+
+This product is already finished, and no support is planned.
+
+New features          - No
+Non-critical bugfixes - No
+Critical bugfixes     - No
+Pull requests         - Not accepted
+Issues                - Not monitored
+Estimated end-of-life - Already ended
